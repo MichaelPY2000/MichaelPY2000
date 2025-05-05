@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Sou Michael Parrales, desarrollador web y entusiasta de la tecnologia, actualmente trabajo como desarrolador junior Industrial Pesquera Santa Priscila, con mas de 2 años de experiencias en proyectos y sistemas ERP.
+Soy Michael Parrales, desarrollador web y entusiasta de la tecnologia, actualmente trabajo como desarrolador junior Industrial Pesquera Santa Priscila, con mas de 2 años de experiencias en proyectos y sistemas ERP.
 He tenido la oportunidad de trabajar en diferentes proyecto tanto grupal e individual con diferentes tecnologias de desarrollo.
 
 ### Mi stack de desarrollo 💻
