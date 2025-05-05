@@ -1,5 +1,11 @@
 ## Hola 👋
 
+Sou Michael Parrales, desarrollador web y entusiasta de la tecnologia, actualmente trabajo como desarrolador junior Industrial Pesquera Santa Priscila, con mas de 2 años de experiencias en proyectos y sistemas ERP.
+He tenido la oportunidad de trabajar en diferentes proyecto tanto grupal e individual con diferentes tecnologias de desarrollo.
+
+### Mi stack de desarrollo 💻
+https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D 
+
 <!--
 **MichaelPY2000/MichaelPY2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
